@@ -21,4 +21,5 @@ Fast export of Mysql DB to your FTP server
 
 ### How to use
 1. Edit configuration file
+2. Build the tool
 2. ./mysqlbackuper --config=/path/to/your/config/file
